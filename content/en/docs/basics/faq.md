@@ -11,7 +11,7 @@ menu:
     parent: "basics"
 weight: 630
 toc: true
-url: /doc/faq/
+url: /docs/faq/
 ---
 
 ## Hyas?

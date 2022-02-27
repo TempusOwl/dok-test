@@ -11,7 +11,7 @@ menu:
     parent: "basics"
 weight: 620
 toc: true
-url: /doc/troubleshooting/
+url: /docs/troubleshooting/
 ---
 
 ## Problems updating npm packages
