@@ -8,7 +8,7 @@ draft: false
 images: []
 menu:
   docs:
-    parent: "help"
+    parent: "basics"
 weight: 630
 toc: true
 url: /doc/faq/
