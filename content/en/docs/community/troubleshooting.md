@@ -8,9 +8,10 @@ draft: false
 images: []
 menu: 
   docs:
-    parent: "help"
+    parent: "community"
 weight: 620
 toc: true
+
 ---
 
 ## Problems updating npm packages
