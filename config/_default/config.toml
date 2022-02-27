@@ -1,4 +1,4 @@
-baseurl = "https://tempusowl.com/"
+baseurl = "https://tempusowl.github.io/"
 canonifyURLs = false
 disableAliases = true
 disableHugoGeneratorInject = true
