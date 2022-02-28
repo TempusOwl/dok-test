@@ -1,5 +1,5 @@
-baseurl = "https://tempusowl.github.io/"
-canonifyURLs = false
+baseurl = "/"
+canonifyURLs = true
 disableAliases = true
 disableHugoGeneratorInject = true
 enableEmoji = true
