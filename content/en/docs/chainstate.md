@@ -19,8 +19,6 @@ toc: true
 
 These commands compare the balance of an address against a particular token or block.
 
-_Each data structure is created by one or more tools which are detailed below_
-
 ## State
 
 The following commands produce and manage states:
@@ -46,9 +44,7 @@ State data is made of the following data fields:
 | deployed    | the block number at which this smart contract was deployed (if a smart contact)                 | blknum  |
 | accttype    | the type of the address at the given block                                                      | string  |
 
-
 ## Result
-
 
 | Field            | Description                                                                     | Type      |
 | ---------------- | ------------------------------------------------------------------------------- | --------- |
@@ -84,7 +80,6 @@ Token data is made of the following data fields:
 | isContract | `true` if the address is a smart contract, `false` otherwise | bool    |
 | isErc20    | `true` if the address is an ERC20, `false` otherwise         | bool    |
 | isErc721   | `true` if the address is an ERC720, `false` otherwise        | bool    |
-
 
 ## Base types
 

@@ -52,7 +52,6 @@ Status data is made of the following data fields:
 | ts                | the timestamp when this status data was produced  | timestamp   |
 | chains            |                                                   | CChainArray |
 
-
 ## Cache
 
 The [chifra status <type>](/docs/chifra/admin/#chifra-status) reports on the binary caches. Those reports come in the form of the Cache data type. Each cache data object may carry unique information for the given cache. See the source code for more information.
@@ -72,7 +71,6 @@ Cache data is made of the following data fields:
 | nFiles      | the number of files in the cache                        | uint64 |
 | nFolders    | the number of subfolders in the cache                   | uint64 |
 | sizeInBytes | the size of the cache in bytes                          | uint64 |
-
 
 ## PinnedChunk
 
@@ -95,7 +93,6 @@ Pinnedchunk data is made of the following data fields:
 | firstApp  | the first appearance in the chunk                           | blknum   |
 | latestApp | the latest appearance in the chunk                          | blknum   |
 
-
 ## Manifest
 
 The Manifest details the index of appearance's PinnedChunks. Each record in the Manifest details the block range represented by the chunk as well as the IPFS hash of the index chunk along with the associated IPFS hash for the Bloom filter of the chunk. The manifest itself is also pushed to IPFS and the IPFS of the hash of the manifest is published periodically to the Unchained Index smart contract.
@@ -117,9 +114,7 @@ Manifest data is made of the following data fields:
 | lastPin     | the most recent block included in this manifest                 | blknum            |
 | pins        | a list of all the pins in the unchained index                   | CPinnedChunkArray |
 
-
 ## Chain
-
 
 | Field          | Description                                                      | Type   |
 | -------------- | ---------------------------------------------------------------- | ------ |

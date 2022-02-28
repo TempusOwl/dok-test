@@ -21,8 +21,6 @@ The primary purpose of TrueBlocks is to extract, directly from the blockchain, t
 
 Monitors collect together [Appearances](/data-model/accounts/#appearance) (`blknum.tx_id` pairs) along with additional information such as [Reconciliations](/data-model/accounts/#reconciliation) (18-decimal place accurate accounting for each asset transfer), [Names](/data-model/accounts/#names) (associations of human-readable names with addresses), and [Abis](/data-model/accounts/#abis) which track the "meaning" of each transaction through its [Functions](/data-model/accounts/#function) and [Parameters](/data-model/accounts/#parameters).
 
-_Each data structure is created by one or more tools which are detailed below_
-
 ## Monitor
 
 A Monitor is a list of [Appearances](/data-model/accounts/#appearance) associated with a given address along with various details about those appearances. A monitor is created when a user expresses interest in an address by calling either [chifra list](/docs/chifra/accounts/#chifra-list) or [chifra export](/docs/chifra/accounts/#chifra-export) tool (or querying thier associated APIs).
@@ -52,7 +50,6 @@ Monitor data is made of the following data fields:
 | isCustom    | `true` if this address is customized           | bool    |
 | deleted     | `true` if deleted, `false` otherwise           | bool    |
 
-
 ## Appearance
 
 An appearance is a pointer (`blknum, tx_id` pair) into the blockchain indicating where a particular address appears. This includes obvious locations such as `to` or `from` as well as esoteric locations such as deep inside a tenth-level trace or as the miner of an uncle block. The primary goal of TrueBlocks is to identify every appearance for any address on the chain.
@@ -76,7 +73,6 @@ Appearance data is made of the following data fields:
 | name             | the name of the address, if found                         | string    |
 | timestamp        | the timestamp for this appearance                         | timestamp |
 | date             | the date represented by the timestamp                     | string    |
-
 
 ## Reconciliation
 
@@ -129,12 +125,9 @@ Reconciliation data is made of the following data fields:
 | endBalDiff          | a calculated field -- endBal - endBalCalc, if non-zero, the reconciliation failed                               | int256    |
 | reconciled          | a calculated field -- true if `endBal === endBalCalc` and `begBal === prevBlkBal`. `false` otherwise.           | bool      |
 
-**Notes**
-
 **Intra-block transactions**: In many cases two or more transactions requiring a reconciliation may occur in a single block. Because the Ethereum blockchain only provides balance queries at the end of blocks, it is not possible to query for the balance of an asset at the end of transactions for which there are other following transactions in the block nor for the beginning balance for which there are transactions prior to the given transaction in the same block. In these cases, TrueBlocks simulates the beginning and ending balance as needed and adds `partial` to the `reconciliationType`.
 
 **Spot Price**: If the `spotPrice` is available from an on-chain source (such as UniSwap), then it represents the ETH/DAI value at the time of the transaction if the reconciliation is for ETH. For other assets, the `spotPrice` represents the asset's value relative to `ETH`, so to price a non-ETH asset in US dollars, one would need to convert first to `ETH` then to dollars. If a price is not available on-chain, the `spotPrice` will be zero and the caller is encouraged to get the price for the asset from other sources.
-
 
 ## Name
 
@@ -168,7 +161,6 @@ Name data is made of the following data fields:
 | isErc20     | `true` if the address is an ERC20, `false` otherwise                                | bool    |
 | isErc721    | `true` if the address is an ERC720, `false` otherwise                               | bool    |
 
-
 ## Abi
 
 An ABI describes an Application Binary Interface -- in other words, the [Function](/data-model/other/#function) and Event signatures for a given smart contract. Along with [Names](/data-model/accounts/#names) the use of ABIs goes a very long way towards making your Ethereum data much more understandable.
@@ -188,10 +180,7 @@ Abi data is made of the following data fields:
 | address    | the smart contract that implements this abi  | address        |
 | interfaces | the list of events and functions on this abi | CFunctionArray |
 
-**Notes**
-
 See the `chifra abis` command line for information about getting an EtherScan key.
-
 
 ## Base types
 
