@@ -9,22 +9,21 @@ lastmod:
   - date
   - publishDate
 draft: false
-url: "/docs/intro"
+url: "/data-model/intro"
 images: []
 menu: 
-  docs:
+  data:
     parent: intro
 weight: 1000
 toc: true
 ---
 
-![Green Sea Turtle Hatchling by Hannah Le Leu](Fq9vwU2IkO.webp "A green sea turtle hatchling cautiously surfaces for air, to a sky full of hungry birds.")
+<img src="/data-model/data-model-600.png" alt="TrueBlocks is full of data that interrelates." width="600"/>
 
 ## Blockchain + people = TrueBlocks-enhanced data
 
 On its own Ethereum blockchain data is just a boring blob of bytes.
 What really interests us are the stories behind this data--questions like:
-
 * What addresses were involved?
 * Can I see all transactions involved this address?
 * When did the transaction happen?
@@ -42,3 +41,4 @@ _why_ behind the Blockchain transactions. It is where TrueBlocks really shines.
 Because all TrueBlocks apps use the same backend, these references describe
 the data found with the command line, the Explorer app, and the API. However,
 the presentation of the data may change depending on the app and file format.
+

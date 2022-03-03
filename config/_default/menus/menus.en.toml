@@ -1,33 +1,58 @@
-[[docs]]
-  name = "Getting Started"
-  weight = 10
-  identifier = "basics"
-  url = "/docs/basics/"
+[[main]]
+identifier = "data"
+name = "Data\u00A0Model"
+url = "/data-model/intro"
+weight = 30
 
-[[docs]]
-  name = "Important Concepts"
-  weight = 20
-  identifier = "important"
-  url = "/docs/important/"
+[[data]]
+identifier = "intro"
+name = "Getting Started"
+url = "/data-model/intro/intro"
+weight = 10
+
+[[data]]
+identifier = "collections"
+name = "Reference of Data fields"
+url = "/data-model/collections"
+weight = 20
+
+[[data]]
+identifier = "testy"
+name = "Testy"
+url = "/data-model/testy"
+weight = 30
+
+
+#[[docs]]
+#  name = "Getting Started"
+#  weight = 10
+#  identifier = "basics"
+#  url = "/docs/basics/"
+
+#[[docs]]
+#  name = "Important Concepts"
+#  weight = 20
+#  identifier = "important"
+#  url = "/docs/important/"
   
-[[docs]]
-  name = "The Community"
-  weight = 30
-  identifier = "community"
-  url = "/docs/community/"
+#[[docs]]
+#  name = "The Community"
+#  weight = 30
+#  identifier = "community"
+#  url = "/docs/community/"
 
-[[docs]]
-  name = "Kink Education"
-  weight = 40
-  identifier = "kinks"
-  url = "/docs/kinks/"
+#[[docs]]
+#  name = "Kink Education"
+#  weight = 40
+#  identifier = "kinks"
+#  url = "/docs/kinks/"
 
   
-[[docs]]
-  name = "More Reading"
-  weight = 50
-  identifier = "help"
-  url = "/docs/help/"
+#[[docs]]
+#  name = "More Reading"
+#  weight = 50
+#  identifier = "help"
+#  url = "/docs/help/"
 
 
 # [[docs]]

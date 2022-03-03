@@ -11,14 +11,13 @@ lastmod:
 draft: false
 images: []
 menu:
-  docs:
+  data:
     parent: "collections"
 weight: 1800
 toc: true
 ---
 
 These commands call some useful miscellaneous tools:
-
 * `chifra quotes`, a rudimentary pricing tool,
 * `chifra explore` a quick way to open a blockchain explorer,
 * `ethslurp` an older tool that lets you call data from EtherScan. (This has issues of centralization and data quality, see explanation in its section).
@@ -26,6 +25,8 @@ These commands call some useful miscellaneous tools:
 {{< alert icon="👉" title="note about keys"
 text="Note: some of these tools, like `ethslurp`, require an EtherScan key." >}}
 [Follow these instructions to add a key to your config](/docs/install/install-trueblocks/#3-update-the-configs-for-your-rpc-and-api-keys)
+
+_Each data structure is created by one or more tools which are detailed below_
 
 ## Function
 
@@ -49,6 +50,7 @@ Function data is made of the following data fields:
 | inputs    | the input parameters to the function, if any            | CParameterArray |
 | outputs   | the output parameters to the function, if any           | CParameterArray |
 
+
 ## Parameter
 
 Parameters are a constituent part of a [Function or Event](/data-model/accounts/#function). The parameters of a function are each individual value passed into the function. Along with the function's name, the parameters types (once canonicalized) are used to create a function's four byte signature (or an event's 32-byte signature). Parameters are important to TrueBlocks because we use them as part of the ABI decoding and the `--articulate` process to conver the blockchain's bytes into human-readable text.
@@ -71,6 +73,7 @@ Parameter data is made of the following data fields:
 | internalType | for composite types, the internal type of the parameter     | string          |
 | components   | for composite types, the parameters making up the composite | CParameterArray |
 
+
 ## Quote
 
 Prior to sources of on-chain prices such as UniSwap, TrueBlocks would pull US dollar to Ether prices from the Poloniex price API. This data structure reports on those queries. Note that this tool has been deprecated.
@@ -89,6 +92,7 @@ Quote data is made of the following data fields:
 | close     | price of the asset in US dollars                      | double    |
 | date      | the date of the associated timestamp                  | date      |
 | name      | the name of the block for some named 'special' blocks | string    |
+
 
 ## Base types
 
