@@ -1,59 +1,14 @@
-[[main]]
-identifier = "data"
-name = "Data\u00A0Model"
-url = "/data-model/intro"
-weight = 30
+[[docs]]
+  name = "Prologue"
+  weight = 10
+  identifier = "prologue"
+  url = "/docs/prologue/"
 
-[[data]]
-identifier = "intro"
-name = "Getting Started"
-url = "/data-model/intro/intro"
-weight = 10
-
-[[data]]
-identifier = "collections"
-name = "Reference of Data fields"
-url = "/data-model/collections"
-weight = 20
-
-[[data]]
-identifier = "testy"
-name = "Testy"
-url = "/data-model/testy"
-weight = 30
-
-
-#[[docs]]
-#  name = "Getting Started"
-#  weight = 10
-#  identifier = "basics"
-#  url = "/docs/basics/"
-
-#[[docs]]
-#  name = "Important Concepts"
-#  weight = 20
-#  identifier = "important"
-#  url = "/docs/important/"
-  
-#[[docs]]
-#  name = "The Community"
-#  weight = 30
-#  identifier = "community"
-#  url = "/docs/community/"
-
-#[[docs]]
-#  name = "Kink Education"
-#  weight = 40
-#  identifier = "kinks"
-#  url = "/docs/kinks/"
-
-  
-#[[docs]]
-#  name = "More Reading"
-#  weight = 50
-#  identifier = "help"
-#  url = "/docs/help/"
-
+[[docs]]
+  name = "Help"
+  weight = 60
+  identifier = "help"
+  url = "/docs/help/"
 
 # [[docs]]
 #   name = "Lorem"
@@ -68,14 +23,14 @@ weight = 30
   url = "/guide/lorem/"
 
 [[tutorial]]
-  name = "Lorem"
+  name = "Getting Started"
   weight = 10
-  identifier = "lorem"
+  identifier = "gettingstarted"
   url = "/tutorial/lorem/"
 
 [[main]]
   name = "Docs"
-  url = "/docs/intro/"
+  url = "/docs/prologue/introduction/"
 # url = "/docs/1.0/prologue/introduction/"
   weight = 10
 
@@ -89,11 +44,11 @@ weight = 30
   url = "/blog/"
   weight = 20
 
-#[[main]]
-#  name = "Get Started"
-#  weight = 30
-#  identifier = "get-started"
-#  url = "/docs/prologue/introduction/"
+[[main]]
+  name = "Get Started"
+  weight = 30
+  identifier = "get-started"
+  url = "/docs/prologue/introduction/"
 
 [[main]]
   name = "Quick Start"

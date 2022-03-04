@@ -4,6 +4,13 @@
   identifier = "prologue"
   url = "/docs/prologue/"
 
+[[main]]
+  name = "Tutorial"
+  weight = 50
+  identifier = "tutorial"
+  url = "/tutorial/introduction/"
+  parent = "get-started"
+
 [[docs]]
   name = "Help"
   weight = 60

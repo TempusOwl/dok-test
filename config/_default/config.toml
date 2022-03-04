@@ -1,5 +1,5 @@
-baseurl = ""
-canonifyURLs = true
+baseurl = "https://doks.netlify.app/"
+canonifyURLs = false
 disableAliases = true
 disableHugoGeneratorInject = true
 enableEmoji = true
@@ -8,9 +8,6 @@ enableRobotsTXT = true
 languageCode = "en-US"
 paginate = 7
 rssLimit = 10
-
-# Bug Testing
-#ignoreErrors = ["image-not-found"]
 
 # Multilingual
 defaultContentLanguage = "en"
