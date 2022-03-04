@@ -34,6 +34,12 @@
 # url = "/docs/1.0/prologue/introduction/"
   weight = 10
 
+[[main]]
+  name = "Tutorial"
+  url = "/tutorial/introduction/"
+  weight = 20
+
+
 # [[main]]
 #   name = "Tutorial"
 #   url = "/tutorial/lorem/ipsum/"
