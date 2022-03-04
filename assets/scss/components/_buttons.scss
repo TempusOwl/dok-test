@@ -65,7 +65,7 @@ pre {
 
 .btn-copy {
   transition: opacity 0.3s ease-in-out;
-  visibility: hidden !important;
+  opacity: 0;
   position: absolute;
   right: 0.25rem;
   top: 0.25rem;
@@ -105,7 +105,7 @@ pre {
 
 @include media-breakpoint-up(md) {
   pre:hover .btn-copy {
-    visibility: visible !important;
+    opacity: 1;
   }
 }
 
@@ -223,6 +223,12 @@ pre {
   width: 100%;
 }
 
+@include media-breakpoint-up(md) {
+  .dropdown-menu.dropdown-menu-main {
+    width: auto;
+  }
+}
+
 .dropdown-menu-main .dropdown-item {
   color: inherit;
   font-size: $font-size-base;
@@ -244,4 +250,8 @@ pre {
 
 .dropdown-menu-main .dropdown-item.active:hover {
   background-color: transparent;
+}
+
+.btn-light {
+  transition: all 0s ease 0s;
 }
