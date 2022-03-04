@@ -1,32 +1,16 @@
-.single .content {
+.contributors .content,
+.blog .content,
+.page .content,
+.error404 .content,
+.docs.list .content,
+.tutorial.list .content,
+.showcase.list .content {
   padding-top: 1rem;
   padding-bottom: 3rem;
 }
 
-.single.home .content {
-  padding-top: 0;
-  padding-bottom: 0;
-}
-
-.list.taxonomy.contributors .content,
-.list.term.contributors .content,
-.list.section.blog .content,
-.list.section.docs .content,
-.list.section.tutorial .content,
-.list.taxonomy.types .content,
-.list.taxonomy.functionalities .content {
-  padding-top: 1rem;
-  padding-bottom: 3rem;
-}
-
-.single.section.tutorial .content,
-.single.section.showcase .content,
-.single.section.docs .content,
-.list.section.showcase .content,
-.list.term.types .content,
-.list.term.functionalities .content {
-  padding-top: 0;
-  padding-bottom: 0;
+.content img {
+  max-width: 100%;
 }
 
 h1,
@@ -98,23 +82,23 @@ a.btn:focus {
   text-decoration: none;
 }
 
-.content .section {
+.section {
   padding-top: 5rem;
   padding-bottom: 5rem;
 }
 
-.content .section-md {
+.section-md {
   padding-top: 3rem;
   padding-bottom: 3rem;
 }
 
-.content .section-sm {
+.section-sm {
   padding-top: 1rem;
   padding-bottom: 1rem;
 }
 
 /*
-.content .section svg {
+.section svg {
   display: inline-block;
   width: 2rem;
   height: 2rem;
@@ -142,9 +126,9 @@ body {
     .docs-sidebar {
       position: -webkit-sticky;
       position: sticky;
-      top: 3.625rem;
+      top: 4rem;
       z-index: 1000;
-      height: calc(100vh - 3.625rem);
+      height: calc(100vh - 4rem);
     }
   }
 }
@@ -261,6 +245,10 @@ body {
   -moz-background-clip: text;
   -webkit-text-fill-color: transparent;
   -moz-text-fill-color: transparent;
+}
+
+.katex {
+  font-size: $font-size-md;
 }
 
 .card-bar {

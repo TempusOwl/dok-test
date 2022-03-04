@@ -1,84 +1,14 @@
-/* eslint-disable */
-window.plausible = window.plausible || function() { (window.plausible.q = window.plausible.q || []).push(arguments) }
+// Adds scroll position lock for default docs sidebar
 
-if (document.querySelector('#deploy-to-netlify') !== null) {
+if (document.querySelector('#sidebar-default') !== null) {
+  let sidebar = document.getElementById('sidebar-default');
 
-  document.getElementById('deploy-to-netlify').addEventListener('click', function(){
-    plausible('Deploy to Netlify');
-  });
-
-}
-/* eslint-enable */
-
-/*
-var docsearch = document.getElementById('docsearch');
-
-if (docsearch !== null) {
-  document.addEventListener('click', buttonBlur);
-}
-
-function buttonBlur() {
-  docsearch.firstElementChild.blur();
-}
-*/
-
-/*
-var search = document.getElementById('search');
-
-if (search !== null) {
-  document.addEventListener('keydown', inputFocus);
-}
-
-function inputFocus(e) {
-  if (e.ctrlKey && e.key === '/' ) {
-    e.preventDefault();
-    search.focus();
+  let pos = sessionStorage.getItem('sidebar-scroll');
+  if (pos !== null) {
+      sidebar.scrollTop = parseInt(pos, 10);
   }
-  if (e.key === 'Escape' ) {
-    search.blur();
-  }
-}
-*/
 
-/* eslint-disable */
-/*
-if (document.querySelector('#search') !== null) {
-  docsearch({
-    apiKey: '978789745e8a1cf3e9a3f0fa321dbdb9',
-    indexName: 'getdoks',
-    inputSelector: '#search',
-    debug: false,
+  window.addEventListener('beforeunload', () => {
+      sessionStorage.setItem('sidebar-scroll', sidebar.scrollTop);
   });
 }
-*/
-/* eslint-enable */
-
-/*
- * https://css-tricks.com/using-netlify-forms-and-netlify-functions-to-build-an-email-sign-up-widget/
- * https://answers.netlify.com/t/how-to-include-dependencies-in-netlify-lambda-functions/2323/38
-*/
-
-/* eslint-disable */
-const processForm = form => {
-  const data = new FormData(form)
-  data.append('form-name', 'newsletter');
-  fetch('/', {
-    method: 'POST',
-    body: data,
-  })
-  .then(() => {
-    form.innerHTML = '<p class="form--success"><strong>Almost there!</strong> Check your inbox for a confirmation e-mail.</p>';
-  })
-  .catch(error => {
-    form.innerHTML = '<p class="form--error"><strong>Error:</strong> ${error}</p>';
-  })
-}
-
-const emailForm = document.querySelector('.email-form')
-if (emailForm) {
-  emailForm.addEventListener('submit', e => {
-    e.preventDefault();
-    processForm(emailForm);
-  })
-}
-/* eslint-enable */

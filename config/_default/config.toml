@@ -1,13 +1,21 @@
-baseURL = "https://priceless-meninsky-a32980.netlify.app"
-canonifyURLs = false
+baseurl = ""
+canonifyURLs = true
 disableAliases = true
 disableHugoGeneratorInject = true
 enableEmoji = true
-enableGitInfo = true
+enableGitInfo = false
 enableRobotsTXT = true
 languageCode = "en-US"
 paginate = 7
 rssLimit = 10
+
+# Bug Testing
+#ignoreErrors = ["image-not-found"]
+
+# Multilingual
+defaultContentLanguage = "en"
+disableLanguages = ["de", "nl"]
+# defaultContentLanguageInSubdir = true
 
 # add redirects/headers
 [outputs]
@@ -54,13 +62,31 @@ rel  = "sitemap"
 
 [taxonomies]
   contributor = "contributors"
-  type = "types"
-  functionality = "functionalities"
 
 [permalinks]
   blog = "/blog/:title/"
-  types = "/showcase/types/:title/"
-  functionalities = "/showcase/functionalities/:title/"
+# docs = "/docs/1.0/:sections[1:]/:title/"
 
 [minify.tdewolff.html]
   keepWhitespace = false
+
+[module]
+  [module.hugoVersion]
+    extended = true
+    min = "0.80.0"
+    max = ""
+  [[module.mounts]]
+    source = "assets"
+    target = "assets"
+  [[module.mounts]]
+    source = "static"
+    target = "static"
+  [[module.mounts]]
+    source = "node_modules/flexsearch"
+    target = "assets/js/vendor/flexsearch"
+  [[module.mounts]]
+    source = "node_modules/katex"
+    target = "assets/js/vendor/katex"
+  [[module.mounts]]
+    source = "node_modules/mermaid"
+    target = "assets/js/vendor/mermaid"

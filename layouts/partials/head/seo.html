@@ -19,7 +19,11 @@
 {{ with .Description -}}
   <meta name="description" content="{{ . }}">
 {{ else -}}
-  <meta name="description" content="{{ .Site.Params.description }}">
+  {{ with .Summary | plainify -}}
+    <meta name="description" content="{{ . }}">
+  {{ else -}}
+    <meta name="description" content="{{ .Site.Params.description }}">
+  {{ end -}}
 {{ end -}}
 
 {{ if $.Scratch.Get "paginator" }}
@@ -30,7 +34,7 @@
   {{ if .Paginator.HasNext -}}
     <link rel="next" href="{{ .Paginator.Next.URL | absURL }}">
   {{ end -}}
-{{ else  -}}
+{{ else -}}
   <link rel="canonical" href="{{ .Permalink }}">
 {{ end -}}
 
