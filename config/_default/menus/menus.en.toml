@@ -22,11 +22,11 @@
   identifier = "lorem"
   url = "/guide/lorem/"
 
-[[tutorial]]
+[[learn]]
   name = "Getting Started"
   weight = 10
   identifier = "gettingstarted"
-  url = "/tutorial/lorem/"
+  url = "/learn/lorem/"
 
 [[main]]
   name = "Docs"
@@ -35,14 +35,14 @@
   weight = 10
 
 [[main]]
-  name = "Tutorial"
-  url = "/tutorial/introduction/"
+  name = "learn"
+  url = "/learn/introduction/"
   weight = 20
 
 
 # [[main]]
-#   name = "Tutorial"
-#   url = "/tutorial/lorem/ipsum/"
+#   name = "learn"
+#   url = "/learn/lorem/ipsum/"
 #   weight = 15
 
 [[main]]
@@ -64,10 +64,10 @@
   parent = "get-started"
 
 [[main]]
-  name = "Tutorial"
+  name = "learn"
   weight = 50
-  identifier = "tutorial"
-  url = "https://getdoks.org/tutorial/introduction/"
+  identifier = "learn"
+  url = "https://getdoks.org/learn/introduction/"
   parent = "get-started"
 
 [[social]]
