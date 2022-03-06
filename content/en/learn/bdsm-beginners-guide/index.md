@@ -1,7 +1,8 @@
 ---
 title: "What Is BDSM? An In-Depth Beginners Guide "
-description: "Deploy your Doks site to Netlify or any other static web host."
-lead: "Deploy your Doks site to Netlify or any other static web host."
+description: "Essential resources to help you journey into BDSM and learn how to be safe, confident and educated. BDSM is a personal journey, learn how to start yours here."
+lead: "Essential resources to help you journey into BDSM and learn how to be safe, confident and educated. BDSM is a personal journey, learn how to start yours here."
+snippet: "Snippet"
 date: 2020-11-30T14:28:08+01:00
 lastmod: 2020-11-30T14:28:08+01:00
 draft: false

@@ -9,7 +9,7 @@ images: []
 menu:
   learn:
     parent: "gettingstarted"
-weight: 005
+weight: 030
 toc: true
 url: /learn/communication-and-bdsm/
 ---

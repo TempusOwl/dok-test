@@ -8,8 +8,8 @@ draft: false
 images: []
 menu:
   learn:
-    parent: "gettingstarted"
-weight: 005
+    parent: "Important Concepts"
+weight: 099
 toc: true
 url: /learn/fake-doms-explained/
 ---

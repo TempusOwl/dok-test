@@ -9,7 +9,7 @@ images: []
 menu:
   learn:
     parent: "gettingstarted"
-weight: 005
+weight: 020
 toc: true
 url: /learn/list-of-acronyms/
 ---

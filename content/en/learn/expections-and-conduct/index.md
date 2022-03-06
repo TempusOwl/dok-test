@@ -9,7 +9,7 @@ images: []
 menu:
   learn:
     parent: "gettingstarted"
-weight: 005
+weight: 010
 toc: true
 url: /learn/expections-and-conduct
 ---

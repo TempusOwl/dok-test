@@ -1,5 +1,5 @@
 ---
-title: "What Is BDSM? An In-Depth Beginners Guide"
+title: "What Is The BDSM Community?"
 description: "Learn about how BDSM is not just a tag, but its a community with tons of great people. Learn how to navigate the hidden world of BDSM"
 lead: "Learn about how BDSM is not just a tag, but its a community with tons of great people. Learn how to navigate the hidden world of BDSM"
 date: 2020-11-30T14:28:08+01:00
