@@ -10,8 +10,8 @@ if (mode !== null) {
       document.documentElement.setAttribute('data-dark-mode', '');
 
     } else {
-
-      localStorage.setItem('theme', 'light');
+// Swapped localStorage.setItem('theme', 'light'); To Force Dark Mode
+      localStorage.setItem('theme', 'dark');
       document.documentElement.removeAttribute('data-dark-mode');
 
     }
@@ -20,8 +20,8 @@ if (mode !== null) {
 
   mode.addEventListener('click', () => {
 
-    document.documentElement.toggleAttribute('data-dark-mode');
-    localStorage.setItem('theme', document.documentElement.hasAttribute('data-dark-mode') ? 'dark' : 'light');
+    //document.documentElement.toggleAttribute('data-dark-mode');
+    //localStorage.setItem('theme', document.documentElement.hasAttribute('data-dark-mode') ? 'dark' : 'light');
 
   });
 
