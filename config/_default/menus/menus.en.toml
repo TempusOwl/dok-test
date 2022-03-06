@@ -29,9 +29,8 @@
   url = "/learn/lorem/"
 
 [[main]]
-  name = "Docs"
-  url = "/docs/prologue/introduction/"
-# url = "/docs/1.0/prologue/introduction/"
+  name = "Learn"
+  url = "/learn/prologue/bdsm-beginners-guide/"
   weight = 10
 
 [[main]]
