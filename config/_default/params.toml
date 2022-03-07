@@ -3,8 +3,8 @@
 ## Homepage
 title = "Deviant Bound"
 titleSeparator = "-"
-titleAddition = "Modern Documentation Theme"
-description = "Doks is a Hugo theme for building secure, fast, and SEO-ready documentation websites, which you can easily update and customize."
+titleAddition = "Kink. Community. Education."
+description = "Online BDSM community focused around helping others meet, while educating and sharing what it means to be in the BDSM community!"
 
 ## Documentation
 # docsVersion = "0.3"
@@ -79,7 +79,7 @@ lastMod = false
   lazySizes = true
   clipBoard = true
   instantPage = true
-  flexSearch = false
+  flexSearch = true
   darkMode = true
   bootStrapJs = true
   breadCrumb = false

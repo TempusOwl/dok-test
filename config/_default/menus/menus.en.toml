@@ -10,6 +10,33 @@
   identifier = "help"
   url = "/docs/help/"
 
+
+[[docs]]
+  name = "Basics"
+  weight = 2
+  identifier = "basics"
+  url = "/docs/basics/"
+  
+[[docs]]
+  name = "Essentials"
+  weight = 5
+  identifier = "essentials"
+  url = "/docs/essentials/"
+
+
+[[docs]]
+  name = "Kinks"
+  weight = 10
+  identifier = "kinks"
+  url = "/docs/kinks/"
+  
+[[docs]]
+  name = "Extras"
+  weight = 20
+  identifier = "extras"
+  url = "/docs/extras/"
+
+
 # [[docs]]
 #   name = "Lorem"
 #   weight = 70
@@ -22,26 +49,20 @@
   identifier = "lorem"
   url = "/guide/lorem/"
 
-[[learn]]
-  name = "Getting Started"
+[[tutorial]]
+  name = "Lorem"
   weight = 10
-  identifier = "gettingstarted"
-  url = "/learn/lorem/"
+  identifier = "lorem"
+  url = "/tutorial/lorem/"
 
 [[main]]
-  name = "Learn"
-  url = "/learn/bdsm-beginners-guide/"
+  name = "Docs"
+  url = "/docs/basics/bdsm-beginners-guide/"
   weight = 10
-
-[[main]]
-  name = "learn"
-  url = "/learn/introduction/"
-  weight = 20
-
 
 # [[main]]
-#   name = "learn"
-#   url = "/learn/lorem/ipsum/"
+#   name = "Tutorial"
+#   url = "/tutorial/lorem/ipsum/"
 #   weight = 15
 
 [[main]]
@@ -63,10 +84,10 @@
   parent = "get-started"
 
 [[main]]
-  name = "learn"
+  name = "Tutorial"
   weight = 50
-  identifier = "learn"
-  url = "https://getdoks.org/learn/introduction/"
+  identifier = "tutorial"
+  url = "https://getdoks.org/tutorial/introduction/"
   parent = "get-started"
 
 [[social]]
