@@ -2,7 +2,7 @@
 title: "What Does High Protocol Mean In BDSM?"
 description: "Learn what protocol means in the BDSM community, deciding whether high protocol is right for you and your relationship"
 lead: "Learn what protocol means in the BDSM community, deciding whether high protocol is right for you and your relationship"
-draft: false
+draft: true
 images: []
 menu:
   docs:
