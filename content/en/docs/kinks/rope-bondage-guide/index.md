@@ -2,7 +2,7 @@
 title: "Getting Started With Rope Bondage & Shibari"
 description: "Learn about Rope Bondage & Shibari and how to preform it safely with this guide."
 lead: "Learn about Rope Bondage & Shibari and how to preform it safely with this guide."
-draft: false
+draft: true
 images: []
 menu:
   docs:

@@ -1,8 +1,8 @@
 ---
-title : "Basics"
-description: "Basics"
+title : "Essentials"
+description: "Essentials"
 lead: ""
 draft: false
 images: []
-weight: 999
+weight: 900
 ---
