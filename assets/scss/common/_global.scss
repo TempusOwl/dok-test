@@ -235,6 +235,46 @@ body {
   margin-top: -12rem;
 }
 
+.bg-dots {
+  background-image:radial-gradient(#8a90a1 15%, transparent 15%);
+  background-position:0 0;
+  background-size:1rem 1rem;
+  -webkit-mask:linear-gradient(to top, #fff, transparent);
+  mask:linear-gradient(to top, #fff, transparent);
+  width:100%;
+  height:9rem;
+  margin-top:-10rem;
+  z-index:-1
+ }
+ // Background Dots
+ .background-pattern-home,
+ .background-pattern-pricing,
+ .background-pattern-top,
+ .background-pattern-getstarted {
+  opacity:0.1;
+  position:absolute;
+  top:0;
+  left:0;
+  right:0;
+  z-index:-9
+ }
+ .background-pattern-home {
+  background-image:url(../images/small-dot-pattern.png);
+  height:180%
+ }
+ .background-pattern-pricing {
+  background-image:linear-gradient(rgba(24,29,44,0), #181d2c),url(../images/small-dot-pattern.png);
+  height:240%
+ }
+ .background-pattern-top {
+  background-image:linear-gradient(rgba(24,29,44,0), #181d2c),url(../images/small-dot-pattern.png);
+  height:140%
+ }
+ .background-pattern-getstarted {
+  background-image:linear-gradient(#181d2c, rgba(24,29,44,0)),url(../images/small-dot-pattern.png);
+  height:100%
+ }
+
 // https://fossheim.io/writing/posts/css-text-gradient/
 .gradient-text {
   background-color: $primary;
