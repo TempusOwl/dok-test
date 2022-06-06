@@ -50,14 +50,14 @@ Occurs when too much pressure is applied to a joint causing it to slip outside o
 
 - If it occurs untie and remove any stress/force on the affected joint and position the person somewhere safe where they can relax. Stay with the person and keep them engaged and help keep their mind off it, as not to cause panic or shock until help arrives.
 
-# First For Aid Cuts & Abrasions
+## First For Aid Cuts & Abrasions
 
 - Consider buying a well-stocked premade first aid box if nothing else. You can buy a basic kit with plenty of sterile gauze, creams, bandages, antiseptics and more in neatly marked boxes. They are a good purchase even outside of BDSM to throw inside a car too, as well as your house. If you are serious about first aid, do things outside of BDSM such as outdoor hiking perhaps look into making your own first aid kit as well. Pre-made first aid kits often have lot of “fluff”.
 - Clean the area with mild soap and water or saturate with a spray.
 - Cover with an antibiotic ointment and a dry bandage.
 Cuts and Puncture Wounds
 
-### Stop The Bleed
+## Stop The Bleed
 
 This is what the vast majority of people will come across, whether it be getting pinched by a toy, getting cut by something, or getting punctured by something by accident.
 
