@@ -16,7 +16,7 @@
   weight = 2
   identifier = "basics"
   url = "/docs/basics/"
-  
+
 [[docs]]
   name = "Essentials"
   weight = 5
@@ -29,7 +29,7 @@
   weight = 10
   identifier = "kinks"
   url = "/docs/kinks/"
-  
+
 [[docs]]
   name = "Extras"
   weight = 20

@@ -1,4 +1,4 @@
-baseurl = "https://priceless-meninsky-a32980.netlify.app"
+baseurl = ""
 canonifyURLs = false
 disableAliases = true
 disableHugoGeneratorInject = true
