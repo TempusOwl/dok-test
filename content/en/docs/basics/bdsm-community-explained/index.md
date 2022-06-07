@@ -9,6 +9,8 @@ menu:
     parent: "basics"
 weight: 005
 toc: true
+date: 2022-05-07T19:23:18+02:00
+lastmod: 2022-06-07T19:23:18+02:00
 ---
 
 ![Image](people-4050698_960_720.jpeg)

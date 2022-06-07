@@ -9,6 +9,8 @@ menu:
     parent: "basics"
 weight: 001
 toc: true
+date: 2022-06-07T19:23:18+02:00
+lastmod: 2022-06-07T19:23:18+02:00
 ---
 
 ![Image](Fq9vwU2IkO.webp)

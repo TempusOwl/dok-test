@@ -11,6 +11,8 @@ menu:
     parent: "essentials"
 weight: 099
 toc: true
+date: 2022-01-15T19:23:18+02:00
+lastmod: 2022-06-06T19:23:18+02:00
 ---
 
 ![Image](bear-545682_960_720.jpg)

@@ -9,6 +9,8 @@ menu:
     parent: "essentials"
 weight: 015
 toc: true
+date: 2022-01-10T19:23:18+02:00
+lastmod: 2022-06-06T19:23:18+02:00
 ---
 
 ![Image](stop5520347_960_720.jpg)

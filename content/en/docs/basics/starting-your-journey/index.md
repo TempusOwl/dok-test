@@ -9,6 +9,8 @@ menu:
     parent: "basics"
 weight: 020
 toc: true
+date: 2022-04-12T19:23:18+02:00
+lastmod: 2022-06-06T19:23:18+02:00
 ---
 
 ![Image](arrows-167536_960_720.jpg)

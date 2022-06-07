@@ -9,6 +9,8 @@ menu:
     parent: "extras"
 weight: 001
 toc: true
+date: 2022-01-10T19:23:18+02:00
+lastmod: 2022-06-06T19:23:18+02:00
 ---
 ## BDSM Protocol - High Medium & Low
 
