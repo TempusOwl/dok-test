@@ -21,3 +21,5 @@ Please respect Github's rules, while the theme of this repo can be adult in lang
 
 ## Contributing
 This project runs off Hugo, using the theme Dok. All of the articles are written in markdown and located in the folder content/en/docs/. For new articles, new folder must be created and follow same format as other folders, images used in that article must be placed inside that folder. Currently we are only looking for additions/feedback on EXISTING articles until better system is made.
+
+Master is the working branch, please do not push to live. Master will have the current updates before they go on the live site.
