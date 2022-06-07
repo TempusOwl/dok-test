@@ -2,7 +2,7 @@
 title: "First Aid Guide"
 description: "Learn about how to deal with everything from small wounds and bruise care to more to help your partner if they are in need."
 lead: "Learn about how to deal with everything from small wounds and bruise care to more to help your partner if they are in need."
-draft: false
+draft: true
 images: []
 menu:
   docs:

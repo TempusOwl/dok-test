@@ -15,20 +15,20 @@ toc: true
 
 ![Image](bear-545682_960_720.jpg)
 
-Dominant's position over you can be a fun experience, in contrast, it can be an abusive nightmare. Unfortunately, as BDSM has grown the number of uneducated people has grown with it too. This overview will explain what makes quality Doms and what makes fake (abusive) Doms. This education will empower you to protect yourself, and the people you care about from toxic dynamics.
+A dominant's position over you can be a fun experience, in contrast, it can be an abusive nightmare. Unfortunately, as BDSM has grown, the number of uneducated people has grown with it too. This overview will explain what makes quality Doms and what makes fake (abusive) Doms. This education will empower you to protect yourself, and the people you care about, from toxic dynamics.
 
 ## Fake Doms
 
-The idea stems from Doms that fail to adhere to the core principles in BDSM. BDSM (is) meant to be a fun and safe experience in any relationship, though some choose to use BDSM as a vessel to have an excuse to live out unhealthy dynamics and relationships. Fake Dom's disregards core principles in BDSM resulting in toxic/dangerous experiences for some.
+The idea stems from Doms that fail to adhere to the core principles in BDSM. BDSM (is) meant to be a fun and safe experience in any relationship, though some choose to use BDSM as a vessel to have an excuse to live out unhealthy dynamics and relationships. Fake Dom's disregards core principles in BDSM, resulting in toxic/dangerous experiences for some.
 
 Dominant kinks are visually similar to being controlled, told what to do, being hit/punished, etc... these are also true of real abusive relationships. Not all know the difference, especially when they are new to BDSM. Fake Doms push the bounds beyond what is safe and good for their partner, building an ultimately unhealthy and toxic dynamic. Fake Doms can exploit that trust/control under the guise of being “Your Dom” and in many cases disregarding cardinal rules like consent, respect, trust, care, safety, and maintaining a healthy relationship above all.
 
-A healthy BDSM relationship (for the majority) has an understood separation between the relationship and the dynamic. If your Dominant uses BDSM to push you beyond your limits and beliefs causing you to be uncomfortable that is bad, if you are pushed and they do not listen that is far worse. A true Dom will value your feelings and opinions, if they reject, ignore, or downplay your opinions/limits that massive red flag they are not a real Dominant.
+A healthy BDSM relationship (for the majority) has an understood separation between the relationship and the dynamic. If your Dominant uses BDSM to push you beyond your limits and beliefs causing you to be uncomfortable that is bad, if you are pushed, and they do not listen that is far worse. A true Dom will value your feelings and opinions, if they reject, ignore, or downplay your opinions/limits that massive red flag they are not a real Dominant.
 
 ## Fake Doms (May)
 
 - Make you stop talking to all friends, especially those of genders you have a sexual orientation towards.
-- Ask for access to your social media, phone, or otherwise private information or request to know who you talk to, how long, or similar. Generally being tpp invasive in your private life with friends.
+- Ask for access to your social media, phone, or otherwise private information or request to know who you talk to, how long, or similar. Generally being tooinvasive in your private life with friends.
 - Point blame at you (or others), never taking accountability themselves.
 - Fail to listen to your feelings, concerns, or boundaries. Pushing ones that benefit them selflessly at the cost of your safety/happiness.
 - Careless for your needs, putting their displeasure or problems above your own and tossing you to the side.
@@ -46,7 +46,7 @@ A healthy BDSM relationship (for the majority) has an understood separation betw
 
 ## Inexperienced Doms
 
-Not all Doms will have the understanding or knowledge needed for being a good & genuine Dominant, this is normal and part of learning to be a Dom. It takes time for a Dominant to find their voice with trial and error. In those moments of having awkward moments, laughs, and fails that does not make you any less genuine or "fake". If you respect the values of BDSM and hold them to your heart you are a real dominant. We all start somewhere :)
+Not all Doms will have the understanding or knowledge needed for being a good & genuine Dominant, this is normal and part of learning to be a Dom. It takes time for a Dominant to find their voice with trial and error. In those moments of having awkward moments, laughs, and fails, that does not make you any less genuine or "fake". If you respect the values of BDSM and hold them to your heart, you are a real dominant. We all start somewhere :)
 
 ## Conclusion
 

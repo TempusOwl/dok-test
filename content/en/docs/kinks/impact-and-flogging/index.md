@@ -2,7 +2,7 @@
 title: "What is impact play and flogging?"
 description: "Learn about choking and how its preformed safely."
 lead: "Learn about choking and how its preformed safely."
-draft: false
+draft: true
 images: []
 menu:
   docs:

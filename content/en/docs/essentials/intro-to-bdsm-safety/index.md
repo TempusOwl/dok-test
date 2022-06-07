@@ -24,19 +24,19 @@ BDSM can be dangerous in some scenarios, in rope bondage for example a Dom needs
 
 ## Impact
 
-Impact is when you "impact" object like a paddle on partner's butt. There are several concerns with safety that are not obvious. For example, the ears are a delicate area that can be ruptured from the air pressure of the paddle hitting. Whereas other like the spine are vulnerable to being damaged that can cause serious issues.
+Impact is when you "impact" an object like a paddle on a partner's butt or thighs. There are several concerns with safety that are not obvious. For example, the ears are a delicate area that can be ruptured from the air pressure of the paddle hitting. Whereas other like the spine are vulnerable to being damaged that can cause serious issues.
 *See our guide for Impact play for more detail*
 
 ## Choking
 
-The throat contains multiple vital arteries that supply blood from and to the lungs/body. It is possible to interrupt that flow so that a person can become disorientated and pass out, or even worse. It's often better to choke softly and slowly, as applying pressure anywhere near the front of the throat can damage the trachea and larynx. As a general rule the front middle of the throat is an absolute no go for applying pressure.
+The throat contains multiple vital arteries that supply blood from and to the lungs/body. It is possible to interrupt that flow so that a person can become disorientated and pass out, or even worse. It's often better to choke softly and slowly, as applying pressure anywhere near the front of the throat can damage the trachea and larynx. As a general rule, the front middle of the throat is an absolute no-go for applying pressure.
 *See our guide for choking play for more detail*
 
 ## Rope Bondage
 
-Bondage is by far one the more complicated kinks to understand and be safe with. For example, rope can apply pressure on nerve paths and aterties. Nerve pressure can sneak up on you and an individual may not know they are being unsafe, and it can lead to serious long term nerve damage. The body has several areas where nerves are more prominent and can be affected by bondage that you must be aware of and work around. It is also important never to use knots that self tighten, often referred to as "constrictor knot''. All knots are to be "self locking" for safety. Lastly areas like the neck are red zones that are to be totally avoided.
+Bondage is by far one of the more complicated kinks to understand and be safe with. For example, rope can apply pressure on nerve paths and arteries. Nerve pressure can sneak up on you and an individual may not know they are being unsafe, and it can lead to serious long term nerve damage. The body has several areas where nerves are more prominent and can be affected by bondage that you must be aware of and work around. It is also important never to use knots that self tighten, often referred to as "constrictor knot''. All knots are to be "self-locking" for safety. Lastly, areas like the neck are red zones that are to be totally avoided.
 *See our guide for choking play for more detail*
 
 ## First Aid
 
-Knowing the basics of caring for what may happen is important for BDSM. Being equipped to deal with bleeding, wounds both in skillset and with equipment is necessary. Dominants are responsible for the safety of their partner and should be prepared for possible complications.
+Knowing the basics of caring for what may happen is important for BDSM. Being equipped to deal with bleeding, wounds both in skill set and with equipment is necessary. Dominants are responsible for the safety of their partner and should be prepared for possible complications.

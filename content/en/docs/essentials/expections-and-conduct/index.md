@@ -16,7 +16,7 @@ toc: true
 ## Conduct
 
 - Never cheat or engage with additional partners in an exclusive dynamic.
-- Never openly talk/brag about your BDSM relationship by name-dropping your partner with others unless that is agreed upon. People often expect some anonymity and privacy in BDSM as not to affect their personal and/or professional life.
+- Never openly talk/brag about your BDSM relationship by name-dropping your partner with others, unless that is agreed upon. People often expect some anonymity and privacy in BDSM as not to affect their personal and/or professional life.
 - See out and learn safety concerns for any kink you wish to practice on someone (or have done on yourself).
 - Never stop learning, we are all students in this big world. Always come in with an open mind and ears.
 - Never take screenshots, photo images, videos, or refer to someone being inside what could be perceived as the BDSM community, for the same reason above.
@@ -27,7 +27,7 @@ toc: true
 
 ## House Rules
 
-If you ever partake in a local event or community check their rules and expectations before diving in. Many have specific rules that may not be obvious, such as no phone/camera use or drinking. Rules like these exist to ensure the privacy and safety of attendees, it can be a confusing venture if you do not pay attention. If you are unsure about something reach out beforehand and ask if something is alright.
+If you ever partake in a local event or community, check their rules and expectations before diving in. Many have specific rules that may not be obvious, such as no phone/camera use or drinking. Rules like these exist to ensure the privacy and safety of attendees, it can be a confusing venture if you do not pay attention. If you are unsure about something, reach out beforehand and ask if something is alright.
 
 ## Our Discord Community Rules
 
