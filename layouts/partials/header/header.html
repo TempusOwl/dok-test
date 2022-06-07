@@ -6,8 +6,6 @@
 <div class="sticky-lg-top">
 {{ end -}}
 
-<div class="header-bar"></div>
-
 <header class="navbar navbar-expand-md navbar-light doks-navbar">
   <nav class="container-{{ if .Site.Params.options.fullWidth }}fluid{{ else }}xxl{{ end }} flex-wrap flex-md-nowrap" aria-label="Main navigation">
     <a class="navbar-brand p-0 me-auto" href="{{ "/" | relLangURL }}" aria-label="{{ .Site.Params.Title }}">
@@ -106,6 +104,8 @@
     {{ end -}}
   </nav>
 </header>
+
+<div class="header-bar"></div>
 
 {{ if eq .Site.Params.options.flexSearch false }}
 </div>
