@@ -1,4 +1,4 @@
-baseurl = "https://deviantbound.com"
+baseurl = "https://deviantbound.com/"
 canonifyURLs = false
 disableAliases = true
 disableHugoGeneratorInject = true

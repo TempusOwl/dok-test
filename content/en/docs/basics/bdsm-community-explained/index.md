@@ -9,8 +9,8 @@ menu:
     parent: "basics"
 weight: 005
 toc: true
-date: 2022-05-07T19:23:18+02:00
-lastmod: 2022-06-07T19:23:18+02:00
+date: 2022-06-29T19:23:18+02:00
+lastmod: 2022-06-29T19:23:18+02:00
 ---
 
 ![Image](people-4050698_960_720.jpeg)
@@ -27,19 +27,16 @@ In local events like dungeons, there are people called Dungeons Monitors. These 
 
 ## To Be In A Dynamic
 
-BDSM dynamics are something precious, and they are to be taken seriously. If you're a serial abuser, cheater, or overall shitty person, expect to be ostracized by those in your local community, or in communities like ours. Therefore, always follow rules, put your best foot forward and raise others up by educating them, so we are all rise together as a BDSM community. Remember, there is little patience for people who do not hold our values.
+BDSM dynamics are something precious, and they are to be taken seriously. If you're a serial abuser, cheater, or overall shitty person, expect to be ostracized by those in your local community, or in communities like ours. Therefore, always follow rules, put your best foot forward and raise others up by educating them, so we are all rise together as a BDSM community.
 
 ## How can I tell who is in the community?
 
-In the last decade, BDSM has become mainstream, making it hard to tell if a person's interests in BDSM is superficial and inspired by porn/movies or if they are serious about diving into BDSM. As you venture, you will come across people who lack understanding of what BDSM is (especially people under 30). These types of people fall into a gray area where they say they are into BDSM because it's trendy and attractive, but do not involve themselves in the BDSM community or try to educate themselves. Usually meaning they do not see themselves part of the community, see BDSM purely as a simple sexual kink.
+In the last decade, BDSM has become mainstream. This has made it hard to tell if a person's interests in BDSM is superficial and inspired by porn/movies, or if they are serious about diving into BDSM. You will come across people who lack understanding of what BDSM is (especially people under 30). These types of people fall into a gray area where they say they are into BDSM because it's trendy and attractive, but do not involve themselves in the any BDSM communities or try to educate themselves. Usually meaning they do not see themselves part of the community, see BDSM purely as a simple sexual kink and misunderstanding it entirelly.
 
-Forming dynamics with people like these is not a dealbreaker, but helping a person explore serious commitment to BDSM for the first time is risky. BDSM is something that usually takes years for people to learn about what they really want. They may find their path may not align with your path. It's not uncommon for things to fall apart with so much uncertainty. In the same vein, it can be rewarding seeing the growth of a partner. Personally, I recommend staying away from these dynamics unless you like helping/teaching, or you are likely to get frustrated.
+Forming dynamics with people like these is not a dealbreaker, but helping a person explore is a serious commitment. BDSM is something that takes years for people to learn about what they really want, if not decades. That someone, may find their path does not align with your path. It's not uncommon for things to fall apart with so much uncertainty. In the same vein, it can be rewarding seeing the growth of a partner. Personally, I recommend staying away from these dynamics unless you like helping/teaching, or you are likely to get frustrated.
+
+Ideal place to find partners interested in BDSM is in communties like ours or local gather events (like found on fetlife.com). Lastly, places like reddit have hyper-focused communities for every kink you could imagine.
 
 ## The most important factor
 
-The sign someone respects BDSM (and potentially you) is if they sought to educate themselves about BDSM and safety for the kinks they enjoy. Many say they are into BDSM and are unable to answer basic safety concepts. Sometimes playing the "I know it all card" or otherwise hyping up their superficial knowledge and disregarding criticism. If someone has sought out BDSM education, they are likely involved in the community and that is a great sign they are serious.
-
-**Tip:** I like to encourage submissives to learn about their own kink and how it's performed safely, even if they have no intention of dominating someone themselves. It can be a great way to be educated and protect themselves, as well as know when someone is lying about their skill set.
-{: .notice--info}
-
-Join our Discord for a full list of our current rules.
+The sign someone respects BDSM (and potentially you) is if they sought to educate themselves about BDSM and safety for the kinks they enjoy. Many say they are into BDSM and are unable to answer basic safety concepts or questions about BDSM, or what their kinks mean to them. Sometimes playing the "I know it all card" or otherwise hyping up their superficial knowledge and disregarding criticism. If someone has sought out BDSM education, they are likely involved in the community and that is a great sign they are serious.
