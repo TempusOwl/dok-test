@@ -27,7 +27,7 @@ One of the most common views from people outside the community is how BDSM is ba
 
 Is the acronym used to signify the different sects of the kink community, together they are referred to as "BDSM". The image below explains how each set of kinks relates to the letters in the BDSM acronym.
 
-![Image alt text](./doc-BDSM-acronym.webp)
+![Image alt text](doc-BDSM-acronym.png)
 
 ## BDSM Can Be Dangerous
 
