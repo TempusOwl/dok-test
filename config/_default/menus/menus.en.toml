@@ -36,6 +36,13 @@
   identifier = "extras"
   url = "/docs/extras/"
 
+
+# [[docs]]
+#   name = "Lorem"
+#   weight = 70
+#   identifier = "lorem"
+#   url = "/docs/lorem/"
+
 [[guide]]
   name = "Lorem"
   weight = 10
