@@ -15,7 +15,7 @@
   max-width: 100%;
 }
 
-h1
+h1,
 h2,
 h3,
 h4,
@@ -119,11 +119,7 @@ body {
   height: 115%;
   opacity: 0.1;
   position: absolute;
-  top: 0px;
-  left: 0px;
-  right: 0px;
   z-index: -9;
-
 }
 
 .docs-sidebar {
