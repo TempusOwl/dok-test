@@ -27,4 +27,3 @@ There are many great blogs, forums, and communities out there for BDSM. Due to B
 
 The most accessible way to see what exists for BDSM in your community is through sites like fetlife.com, which let you search for events based in your area. This can be a great way to make connections with people. Fetlife specifically, lets you see who is attending, so you can decide if it's a vibe you like or not by checking people's profiles first.
 
-## Expert Resources

@@ -62,4 +62,5 @@ The heavier an impact toy is the more pain it will inflict. Starting light is go
 ### NEVER USE These Materials
 
 - Glass while clear and transparent, its rigidity makes it a poor choice for impact play. It's too likely to break rather than bend.
-- Cheap unlisted plastics formulas as these can injure your partner during impact play. Always look at reviews for quality assurance and see what it is made of.  
+- Cheap unlisted plastics formulas as these can injure your partner during impact play. Always look at reviews for quality assurance and see what it is made of.
+
