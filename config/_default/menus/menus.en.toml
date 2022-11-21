@@ -13,26 +13,26 @@
 
 [[docs]]
   name = "Basics"
-  weight = 2
+  weight = 100
   identifier = "basics"
   url = "/docs/basics/"
 
 [[docs]]
   name = "Essentials"
-  weight = 5
+  weight = 80
   identifier = "essentials"
   url = "/docs/essentials/"
 
 
 [[docs]]
   name = "Kinks"
-  weight = 10
+  weight = 25
   identifier = "kinks"
   url = "/docs/kinks/"
 
 [[docs]]
   name = "Extras"
-  weight = 20
+  weight = 5
   identifier = "extras"
   url = "/docs/extras/"
 

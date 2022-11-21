@@ -1,8 +1,8 @@
 ---
 title : "Basics"
 description: "Basics"
-lead: ""
+lead: "Learn about BSDM starting with the basics."
 draft: false
 images: []
-weight: 10
+weight: 100
 ---
