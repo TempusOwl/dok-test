@@ -25,4 +25,4 @@ In the United States, consent can be removed retroactively at any point (*state 
 
 ## Balancing Control
 
-Finding the balance is key, you want the submissive to have a voice in which they can express issues, while still giving the stern feeling of being dominated. As a Dom, it falls on you to manage both of these aspects when with a partner to keep things safe
+Finding the balance is key, you want the submissive to have a voice in which they can express issues, while still giving the stern feeling of being dominated. As a Dom, it falls on you to manage both of these aspects when with a partner to keep things safe.
