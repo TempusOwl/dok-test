@@ -4,5 +4,5 @@ description: "Kinks"
 lead: ""
 draft: false
 images: []
-weight: 50
+weight: 20
 ---

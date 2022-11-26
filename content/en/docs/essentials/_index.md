@@ -4,5 +4,5 @@ description: "Essentials"
 lead: ""
 draft: false
 images: []
-weight: 10
+weight: 1
 ---
