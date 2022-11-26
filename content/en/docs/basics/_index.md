@@ -4,5 +4,5 @@ description: "Basics"
 lead: "Learn about BSDM starting with the basics."
 draft: false
 images: []
-weight: 5
+weight: 1
 ---
