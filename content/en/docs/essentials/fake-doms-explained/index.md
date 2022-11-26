@@ -2,14 +2,12 @@
 title: "What Are Fake Doms? The Growing Threat To BDSM"
 description: "Learn about fake doms and how not all dominants are alike. Learn about the warning signs and how to protect yourself from unhealthy dynamics."
 lead: "Learn about fake doms and how not all dominants are alike. Learn about the warning signs and how to protect yourself from unhealthy dynamics."
-date: 2020-11-30T14:28:08+01:00
-lastmod: 2020-11-30T14:28:08+01:00
 draft: false
 images: []
 menu:
   docs:
     parent: "essentials"
-weight: 099
+weight: 050
 toc: true
 date: 2022-01-15T19:23:18+02:00
 lastmod: 2022-06-06T19:23:18+02:00
