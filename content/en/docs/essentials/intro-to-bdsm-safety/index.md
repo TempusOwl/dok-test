@@ -9,7 +9,7 @@ images: []
 menu:
   docs:
     parent: "essentials"
-weight: 008
+weight: 060
 toc: true
 date: 2022-05-20T19:23:18+02:00
 lastmod: 2022-06-06T19:23:18+02:00

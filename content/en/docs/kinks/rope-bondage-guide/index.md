@@ -1,8 +1,8 @@
 ---
-title: "Getting Started With Rope Bondage & Shibari"
+title: "Getting Started With Rope Bondage"
 description: "Learn about Rope Bondage & Shibari and how to preform it safely with this guide."
 lead: "Learn about Rope Bondage & Shibari and how to preform it safely with this guide."
-draft: true
+draft: false
 images: []
 menu:
   docs:
@@ -10,63 +10,121 @@ menu:
 weight: 001
 toc: true
 date: 2022-01-10T19:23:18+02:00
-lastmod: 2022-06-06T19:23:18+02:00
+lastmod: 2023-01-06T19:23:18+02:00
 ---
 
 ![Image](ship-traffic-jams-602169_960_720.jpg)
 
-This section is a draft, expect errors and issues.
+This section is a draft, expect errors and issues. Infographics will be added later.
+
+## What is rope bondage?
+
+It is the process of taking a rope and using it to restrain an individual. The word bondage is important, it means "The practice of being physically restrained, as with cords or handcuffs, as a means of attaining sexual gratification.". There are forms of rope work that are not necessarily bondage, like some Shibari for example. Rope bondage fills the need for a bottom's desire to be restrained to bed, or themselves. There are countless types of knots, frictions, styles and methods that make rope bondage a true deep dive for those who are curious. This page will go through the basics of rope bondage, to set you on a good path.
+
+### Shibari Bondage
 
 Shibari 縛り is a longstanding Japanese art that literally means "To Tie" rope bondage and Shibari share many similarities. Shibari can be very rewarding over traditional rope bondage because it is creating a form of art with your partner that you can experience together. You also may hear the term Kinbaku 緊縛 used synonymous with Shibari, Kinbaku translates to "binding tightly." Shibari in some depictions has loose rope as part of the aesthetic, while with Kinbaku this would be incorrect. Kinbaku is often considered Shibari, while Shibari is not always considered Kinbaku.
 Note: Shibari and Kinbaku are Japanese meanings that are sometimes disputed. Some say the modern western meaning (one I used above and is growing in the west), others argue the traditional Japanese meaning "tying, but in a generic way." While Kinbaku is "erotic tying" in contrast, it depends on whom you ask and their perspective, there is no true single definition now, and the exact meaning may vary in your culture, especially if you are Asian/Japanese local.
 
 ## How Does Shibari Differ From "Rope Bondage"?
 
-There is often much confusion between what is Rope Bondage (Western Bondage) and what is Shibari, the opinions vary, but the general census is Rope Bondage is focused around restraint above all with looks not a consideration. While Shibari is making those knots and restraint effective and beautiful, hence why many call it ‘art’. There are multiple ways to tie up your partner and they come out all knotted and tangled (think of tangled headphone cables) without symmetry, meaning or design. Shibari is about putting thought and technique into your bondage using Japanese aesthetics. Admittedly rope bondage often shares the same name of Shibari in the west because Shibari is "Rope Bondage" in a literal sense, but Rope Bondage is NOT always considered Shibari, this is an important distinction between Shibari and Rope Bondage. Shibari in the west is often disputed as being 100% Shibari (about 90% right). If you want to be a purist sourcing your information from Japanese Shibari sources will provide the best accuracy, but of course "western" Shibari and Japanese Shibari share almost identical aesthetic so for any beginner it will not matter to you as the fine details are what vary. With that said, it may be fun to learn about cultural differences once you become proficient!
+There is often much confusion between what is Rope Bondage (Western Bondage) and what is Shibari, the opinions vary, but the general census is Rope Bondage is focused around restraint above all with looks not a consideration. While Shibari is making those knots and restraint effective and beautiful, hence why many call it ‘art’. There are multiple ways to tie up your bottom and they come out all knotted and tangled (think of tangled headphone cables) without symmetry, meaning or design. Shibari is about putting thought and technique into your bondage using Japanese aesthetics. Admittedly rope bondage often shares the same name of Shibari in the west because Shibari is "Rope Bondage" in a literal sense, but Rope Bondage is NOT always considered Shibari, this is an important distinction between Shibari and Rope Bondage. Shibari in the west is often disputed as being 100% Shibari (about 90% right). If you want to be a purist sourcing your information from Japanese Shibari sources will provide the best accuracy, but of course "western" Shibari and Japanese Shibari share almost identical aesthetic so for any beginner it will not matter to you as the fine details are what vary. With that said, it may be fun to learn about cultural differences once you become proficient!
 
-## Do I need a partner to do Shibari?
+## Do I need a Bottom to do bondage?
 
-Yes & No, you can practice on yourself and perform many techniques and bindings. While you will not be able to complete all the things you may want, you can learn the foundation of making weaves, knots, and bindings upon yourself. Starting without a partner is possible and especially encouraged if you do not have anyone to experiment with. Make sure to take it easy, do not tie yourself into a pickle.
+Yes & No, you can practice on yourself and perform some techniques and bindings. While you will not be able to complete all the things you may want, you can learn the foundation of making weaves, knots, and bindings upon yourself. Starting without a bottom is possible, but has many drawbacks. Keep in mind when you are on the other side, it can cause quite the headache, and you will have to relearn. Doing bondage on yourself is a good way to feel how tight you should be doing your knots, it's a good idea as long as you do not tie yourself in a pickle, and understand it's not a perfect solution!
 
 ## What kind of rope should I get?
 
-Rope can be a rabbit hole of complexity, anyone into Shibari may have strong opinions about what kind of rope is best, but the reality is get something soft, flexible and cheap with good reviews when starting. Amazon has many types of ropes that if you read the reviews you can see many use them for BDSM. You should avoid any rope from hardware stores, walmart and such as most of this will be rigid and not really what you are looking for to use with Shibari. You should look at packs of rope so you can have enough to use. You can expect to pay around 15$ for a pack of 3 @ 32 feet or so on Amazon. If you already have a rope, you are halfway there!
-If you want a larger selection of more BDSM ropes you can use sites like Twisted Monk, they offer a vast selection of ropes with varying qualities, colors and cost. The image below demonstrates exotic ropes and how expensive fancy ropes can get, Twisted Monk also has a number of standard ropes too. Twisted Money is regarded as a reputable bondage supplier if you want true "Bondage Ropes".
-https://www.twistedmonk.com/collections/exotic-ropesIs a good place to look into.
+Not all rope is equal, when venturing to buy your first be careful of where you source it. While cotton is a good choice to buy, it requires not that much effort to find an okay one. Jute and Hemp, require far more stringent searching to find a good candidate. The main reason for this is rope treatment, this is what separates hemp/jute from the pennies on the dollar jute and hemp you see on Amazon, to being 1-3$ a foot like a proper bondage set. Cheaper ropes come untreated, with some having strong smells of chemicals agents, some even contain kerosene! This is not an issue for arts and crafts, it's far from ideal due to the carcinogens found in these untreated products. Ropes are often NOT treated, so unless it's labeled as such, expect it NOT to be. Etsy is a good place to look to for, because a lot of sellers explaining their process, the key word you want to look for is conditioned. Rope that is conditioned is treated and ready for use. Rope treatment is a concern for hemp/jute, but NOT a major concern for cotton, if this seems confusing to you, check out cotton rope first! I personally would not head caution for any general store, or Amazon unless you are sure about the product. If Etsy is to wish washy for you, companies like Twisted Monk have been in the game for a long time and can be relied upon and used out of the box.
+
+## Buying Your Rope
+
+### Rope Sizes
+
+- Under 5mm - Has some use in the genital areas, but should be avoided otherwise unless you have a need for it.
+- 5mm - Similar to 6mm, and has smaller look to it. Better for more intricate bondage, or very petite figures. Quite similar to 6mm overall.
+- 6mm (~¼ inch) is the most common style to get started with bondage. It is easier to work with and can do bit of everything.
+- 8mm (~5/16 inch) is the second most common, this is a thicker look that can be better for larger body figures/muscular types. It can accomplish everything 6 mm can, with a bit more work. This i the size, often used to hold the weight of an individual in suspension work, meaning it's plenty good.
+- 10mm+ (~⅜ inch) is becoming rather niche, unless you're going for a certain look for aesthetic reasons the benefit of 10 mm is not necessary. Keep in mind, thicker a rope, the thicker the knots get. It can make working with this rope rather hard.
+
+### Some Rope Things To Avoid
+
+- Smelly Ropes - Some ropes may be treated with kerosene, or other harsh chemicals. These are fairly common to find on sites like Amazon and eBay. If it smells bad, do not to use it! Rope should smell closer to a natural fiber, as many are. Even some natural hemp ropes can be treated with kerosene! Expect to pay around ~$1+ a foot for a good rope, otherwise the rope may have not been treated (for natural fiber ropes like hemp/jute).
+- Poly Rope - Often found at Walmart, and hardware stores. It's often bright, with a plastic feel to it. This rope is problematic for several reasons. It does not hold frictions well (meaning rope slides past itself), it's uncomfortable and it does not hold knots.
+- Coconut Rope - Scratchy feel, but can be desirable for that effect for sadism
+- Sisal rope - Same issue as coconut rope.
+- Nylon Rope - While braided nylon has some uses, it's rather hard to work with and finding the right rope can be hard. It has a slippery texture, which some love or hate.
+
+### Cotton Rope
+
+- Flexible, soft and good for beginners
+- Easy to shop for online, has less surprise concerns.
+- It's important to avoid cotton rope with hard inner core (more common in hardware stores etc..).
+- Bad choice for suspension/high tension situations.
+- Great choice for beginner bottoms who may have never been tied up before.
+- Not ideal for those who put up a fight/struggle.
+- Can form overly tight knots in some cases - Its stretch can cause tight knots to bind up, requiring a bit more effort to undo.
+- Hard to cause rope burn.
+- Good at holding frictions.
+
+### Jute Rope
+
+- Mass produced rope may have chemical smells and be unusable, or have to be treated maually.
+- It has teeth, meaning the rope is better at holding knots and doing frictions.
+- Can be a problem with people with grass allergies and can cause redness.
+- Hard to cause rope burn.
+- Great at holding frictions.
+
+### Hemp Rope
+
+- It has teeth, meaning the rope is better at holding knots and doing frictions.
+- Heavier than jute.
+- Can be a problem with people with grass allergies and can cause redness.
+- Hard to cause rope burn.
+- Great at holding frictions.
+
+### Nylon Rope
+
+- One of the strongest ropes material (generally).
+- Rope does well not holding in sweat or fluids. Good idea for vaginal/cock/ball torture or otherwise sweaty/wet moments. Its also far easier to clean.
+- Only certain styles, like braided nylon should be considered.
+- May not hold knots the best, and can be hard to work with.
+- Does not hold frictions well.
+- Can cause rope burn.
+- Easy to clean and resistant to most things.
+
+## Rope Care
+
+### Rope Whipping
+
+Is the practice of treating your rope's ends to prevent fraying/separation, not hitting someone! This is important as you are likely to cut your rope to a manageable size because links can come in at 30 ft or more, learning how to take care of it in a cut state is important! There are several styles of rope whipping, with tons of videos online. Generally it's done with a fine rope like a craft twine or small nylon rope, that can wrap itself around the size of your rope multiple times.
+
+### Rope Treating / Conditioning
+
+Is what you're paying for when you buy nice bondage rope that has natural fibers (jute/hemp etc…). Treatments vary, but involve being washed, air dried with tension applied (very important), apply natural oils etc... Some may scorch off the stray hairs with a torch. You will hear this process as being "conditioned or treated". If possible, find ropes that explain their treatment to you. Etsy is a good place to look to for, because a lot of sellers explaining their process.
 
 ## Being Safe (Part One)
 
-If you plan to do any rope suspension you need to buy expensive and reputable rope advertised to do such. Doing any suspension as a beginner is hugely ill-advised, buy cheap rope for now and see if Shibari is for you before trying harder stuff like suspension.
+Important: Doing any suspension as a beginner is plain unsafe and do not do it! This guide will not cover this, you will need to find that education elsewhere as you grow more.
 
-Within bondage sometimes things happen, your partner (or you with yourself) may have a panic attack, even worse your partner may pass out and become unresponsive. All of these are significant concerns, and you need a way to quickly undo any restraints. As a beginner I highly suggest getting "Paramedic Shears" or "EMT Shears" or "Trauma Shear” (they are the same). They look like the image below and can be added to your order on Amazon.
-
-These will allow you to quickly cut rope without the concern of using sharp scissors that could injure someone further when trying to get under the rope that is tight. You do not want to be using sharp scissors if your partner is having a panic attack. I recommend testing them on your rope and making sure they are up to the quality and can cut it before putting them in an accessible spot near your scene. Please do not use them for anything else (like cutting paper, hair, plastic containers etc..) you want the pair to be generally unused, so they stay as sharp as possible when they are needed.
+Within bondage sometimes things happen, your bottom may have a panic attack, even worse your bottom might feel light headed, or pass out. All of these are significant concerns, and you need a way to quickly undo any restraints. As a beginner, it' mandatory to get "Paramedic Shears" or "EMT Shears" or "Trauma Shear” (they are the same). These will allow you to quickly cut rope without the concern of using sharp scissors that could injure someone further when trying to get under the rope that is tight.  You do not want to be using sharp scissors if your bottom is having a panic attack. I recommend testing them on your rope and making sure they are up to the quality and can cut it before putting them in an accessible spot near your scene. Please do not use them for anything else (like cutting paper, hair, plastic containers etc..) you want the pair to be generally unused, so they stay as sharp as possible when they are needed.
 
 ## Nerves (Being Safe Part Two)
 
-I recommend people to start with snug bondage, while Kinbaku can look alluring there is more risk involved that needs to be discussed that beginners may not realize when starting out, consider starting small first. Starting out at any level you need to understand human anatomy like circulation and nerves as well as signs of potential problems. You need to properly communicate to your partner what they need to look out for to be safe. If a submissive feels odd shooting pains, hot, cold or itches on limbs or the body this is often an indication of nerves or circulation points being pressured beyond safe levels and you should seek to address them. The rule of thumb, every feeling of "weirdness" needs to be addressed by the person in charge. Nerves and circulation issues do not necessarily hurt and can be very hard to recognize before it becomes a serious problem, often leading many to feel a false sense of safety.
+You need to understand basic human anatomy like circulation, nerves and signs of potential problems. Cotton is good starter rope because it has a more stretch to it, so people can fight it a bit more if they are uncomfortable and feel a bit more free and be able to tell if something feels not right.
 
-One popular and recommended way to see if your partner is safe is to do a "Range of Motion" test. Ask your partner to clench their hand into fist with their thumb inside their hand. As well as expand their fingers out as much as possible creating a web with their hand. If a partner struggles to expand their fingers to form a fist this indicates nerves have too much pressure and you need to loosen the possible nerve points until your partner regains range of motion. The test will vary depending on the libs you have bound, but if at any point the submissive is unable to move their fingers/toes for no apparent reason this is a dangerous warning sign nerves are being blocked by the rope's pressure and immediate action is needed.
+A steadfast rule in rope bondage is NOT to create knots that self tighten, these create the most problematic issues for new riggers. Ideally, all bondage should use rope knots/frictions that are set at a desired level by the rigger. Many knots are self tightening, such as those in the sailing community, so be cautious where you source your guides from!
 
-## Drawing Some Inspiration
+### Warning Signs (Basics)
 
-The first thing to understand is, with any type of art there are multiple different ways to achieve the same result. Referring to some inspiration is essential in being successful, especially when being a beginner you must learn from the masters as the saying goes. If you want True Shibari, I recommended a Japanese site called https://www.ropemagic.net/gallery/it has many free galleries you can use to learn with quality modeling, photo angles, and camera work for you to refer from. You may need to use Google Chrome and enable google translate if you have trouble navigating the website.
-If you are having problems navigating the website. The second resource of Shibari is Tumblr, Tumblr has a massive following of BDSM / NSFW content you can look up an search.
-Other Possible Sources Of Shibari Images (NSFW)
+If a submissive feels odd shooting pains, hot, cold or itches on limbs or the body this is often an indication of nerves or circulation points issue. The rule of thumb, every feeling of "weirdness" needs to be addressed by the rigger. Nerves and circulation issues do not necessarily hurt and can be very hard to recognize before it becomes a larger problem, often leading many to feel a false sense of safety.
 
-- https://www.oscarmike.co/blog/shibari(Mixed Content)
-- https://www.reddit.com/r/shibari/(Hit or miss, but many amateur original content and discussions)
-- https://www.reddit.com/r/MenTiedUp(Good Content - Strictly Male)
-- https://www.kinbaku-studio.com/kinbaku-photography#/rope-bondage/
-- https://www.pinterest.com/audvet/shibari/?lp=true(Pinterest Site)
-- https://www.pinterest.com/texdiver78/shibari/?lp=true(Pinterest Site)
+### Safety Testing
 
-## Time To Learn!
+One popular and recommended way to see if your bottom is safe is to do a "Range of Motion" test. Ask your bottom to clench their hand into a fist with their thumb inside their hand. As well as expand their fingers out as much as possible, creating a web with their hand. If a bottom struggles to expand their fingers to form a fist this indicates nerves have too much pressure, and you need to loosen the possible nerve points until your bottom regains range of motion. The test will vary depending on the limbs you have bound, but if at any point the submissive is unable to move their fingers/toes for no apparent reason, this is a dangerous warning sign nerves are being blocked by the rope's pressure and immediate action is needed.
 
-You got your rope, you got a vision, and you are ready to go! If you are a visual learner and do not know how to get started. I would recommend giving this Imgur album a view https://imgur.com/gallery/ujwy4it has an assortment of knots and is quite informing, although some require a partner. As you get familiar with tying knots and working with a rope, you will better be able to create and replicate from inspiration.
+## Terms you may hear
 
-### Large Collection of Knot Types Visual Videos (Downloadable)
-
-https://knottyboys.com/ - See "Downloads"
-
-This page will be updated and improved as time goes on.
+Bite - Middle of your rope.
+Frictions - When rope is held together by itself by friction. Think like rope tired around your wrist, with a rope inside that. That would be a friction, because friction is holding the rope in place.

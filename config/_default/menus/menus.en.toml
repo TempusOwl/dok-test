@@ -19,14 +19,14 @@
 
 [[docs]]
   name = "Essentials"
-  weight = 80
+  weight = 90
   identifier = "essentials"
   url = "/docs/essentials/"
 
 
 [[docs]]
   name = "Kinks"
-  weight = 25
+  weight = 80
   identifier = "kinks"
   url = "/docs/kinks/"
 
