@@ -12,12 +12,12 @@ description = "The online community for BDSM education, guides and more. Join ou
 ## Open Graph
 images = ["doks.png"]
 ogLocale = "en_US"
-domainTLD = "doks.netlify.app"
-titleHome = "Doks Theme"
+domainTLD = "deviantbound.com"
+titleHome = "Deviant Bound"
 
 ## Twitter Cards
-twitterSite = "@getdoks"
-twitterCreator = "@henkverlinde"
+twitterSite = "@deviantbound"
+twitterCreator = "@deviantbound"
 
 ## JSON-LD
 # schemaType = "Person"
