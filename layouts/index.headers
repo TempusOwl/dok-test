@@ -2,7 +2,7 @@
   Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
   X-Content-Type-Options: nosniff
   X-XSS-Protection: 1; mode=block
-  Content-Security-Policy: default-src 'self'; script-src 'report-sample' 'self' https://static.cloudflareinsights.com/*; style-src 'report-sample' 'self'; object-src 'none'; base-uri 'self'; connect-src 'self'; font-src 'self'; frame-src 'self' https://www.youtube.com; img-src 'self'; manifest-src 'self'; media-src 'self'; worker-src 'none';
+  Content-Security-Policy: default-src 'self'; script-src 'report-sample' 'self' https://static.cloudflareinsights.com/beacon.min.js/* https://www.googletagmanager.com/gtag/js; style-src 'report-sample' 'self'; object-src 'none'; base-uri 'self'; connect-src 'self' https://www.google-analytics.com; font-src 'self'; frame-src 'self' https://www.youtube.com; img-src 'self'; manifest-src 'self'; media-src 'self'; worker-src 'none';
   X-Frame-Options: SAMEORIGIN
   Referrer-Policy: strict-origin
   Feature-Policy: geolocation 'self'
