@@ -2,7 +2,7 @@
   Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
   X-Content-Type-Options: nosniff
   X-XSS-Protection: 1; mode=block
-  Content-Security-Policy: default-src 'self'; script-src 'report-sample' 'self' 'unsafe-inline' https://static.cloudflareinsights.com/beacon.min.js/vaafb692b2aea4879b33c060e79fe94621666317369993 https://www.googletagmanager.com/gtag/js; style-src 'report-sample' 'self' 'unsafe-inline'; object-src 'none'; base-uri 'self'; connect-src 'self' https://www.google-analytics.com; font-src 'self'; frame-src 'self' https://www.youtube.com; img-src 'self' http://www.w3.org/2000/svg; manifest-src 'self'; media-src 'self'; worker-src 'none';
+  Content-Security-Policy: default-src 'self'; script-src 'report-sample' 'self' 'unsafe-inline' https://static.cloudflareinsights.com/beacon.min.js/vaafb692b2aea4879b33c060e79fe94621666317369993 https://www.googletagmanager.com/gtag/js; style-src 'report-sample' 'self' 'unsafe-inline'; object-src 'none'; base-uri 'self'; connect-src 'self' https://www.google-analytics.com; font-src 'self'; frame-src 'self' https://www.youtube.com; img-src 'self' data:image/svg+xml,%3csvg http://www.w3.org/2000/svg; manifest-src 'self'; media-src 'self'; worker-src 'none';
   Referrer-Policy: strict-origin
   Feature-Policy: geolocation 'self'
   Cache-Control: public, max-age=31536000
