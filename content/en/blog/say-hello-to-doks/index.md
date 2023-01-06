@@ -9,6 +9,7 @@ weight: 50
 images: ["say-hello-to-doks.png"]
 contributors: ["Tempus"]
 ---
+
 ## Article New
 
 Several articles have been updated. They are still in draft, so expect changes to them in the future. I plan to add many images to help assist people who are visual learners. I am currently working on bunch of custom images/infographics for people that I think will help a lot.
@@ -18,4 +19,5 @@ Several articles have been updated. They are still in draft, so expect changes t
 Will be updated in the future, currently it still works at https://kinklist.deviantbound.com/
 
 ## More Things To Come..
+
 Stay tuned.
