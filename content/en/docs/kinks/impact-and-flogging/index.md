@@ -1,7 +1,7 @@
 ---
 title: "Guide - Impact Play & Flogging"
-description: "Learn about choking and how its preformed safely."
-lead: "Learn about choking and how its preformed safely."
+description: "Learn about how to do impact and flogging play."
+lead: "Learn about how to do impact and flogging play."
 draft: false
 images: []
 menu:

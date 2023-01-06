@@ -1,5 +1,5 @@
 ---
-title: "Getting Started With Rope Bondage"
+title: "Guide - Rope Bondage"
 description: "Learn about Rope Bondage & Shibari and how to preform it safely with this guide."
 lead: "Learn about Rope Bondage & Shibari and how to preform it safely with this guide."
 draft: false
